@@ -8,24 +8,24 @@ O desafio consiste em elaborar um aplicativo (Android ou iOS) que obtenha os dad
 apresentando-os de forma simples e acessível, seguindo os padrões de usabilidade da plataforma. 
 
 ## Requisitos: 
-● O projeto deve ser desenvolvido com tecnologias nativas da plataforma. Java ou Kotlin para Android e Swift
-para iOS.
-● O aplicativo deve ter no mínimo duas telas. Na primeira deve ser mostrada uma lista dos filmes (com
+<p>O projeto deve ser desenvolvido com tecnologias nativas da plataforma. Java ou Kotlin para Android e Swift
+para iOS.</p>
+<p>O aplicativo deve ter no mínimo duas telas. Na primeira deve ser mostrada uma lista dos filmes (com
 imagem e título, ou só imagem). Ao selecionar um filme desta lista, o usuário deve ser redirecionado para
 uma tela de detalhes, onde mais informações devem ser exibidas. Você não precisa mostrar todas as
-informações que a API te der sobre os filmes.
-● Você precisa manter o usuário informado de que a aplicação está baixando/processando os dados.
-● Utilize algum padrão de arquitetura de software (MVP, MVVM, MVC, Clean Architecture, etc).
-● Todo o código deve ser enviado para algum repositório git remoto público (Github, Bitbucket, etc).
-● Utilize alguma biblioteca de terceiro para realizar as chamadas HTTP. Você é livre para utilizar quantas
-bibliotecas quiser em seu projeto.
+informações que a API te der sobre os filmes.</p>
+<p>Você precisa manter o usuário informado de que a aplicação está baixando/processando os dados.</p>
+<p>Utilize algum padrão de arquitetura de software (MVP, MVVM, MVC, Clean Architecture, etc).</p>
+<p>Todo o código deve ser enviado para algum repositório git remoto público (Github, Bitbucket, etc).</p>
+<p>Utilize alguma biblioteca de terceiro para realizar as chamadas HTTP. Você é livre para utilizar quantas
+<p>bibliotecas quiser em seu projeto.</p>
 
-Bônus (obrigatório para candidatos a vagas CLT)
-● Realizar tratamento de erros.
-O que acontece se o dispositivo estiver sem internet ou o servidor não responder corretamente?
-● Realizar o armazenamento local (cache) das informações da API.
-Após ter realizado o download das informações de forma bem sucedida pela primeira
-vez, o aplicativo deve guardá-las localmente para que o usuário possa visualizá-las offline caso deseje.
+<p>Bônus (obrigatório para candidatos a vagas CLT)
+<p>Realizar tratamento de erros.</p>
+<p>O que acontece se o dispositivo estiver sem internet ou o servidor não responder corretamente?</p>
+<p>Realizar o armazenamento local (cache) das informações da API.</p>
+<p>Após ter realizado o download das informações de forma bem sucedida pela primeira
+vez, o aplicativo deve guardá-las localmente para que o usuário possa visualizá-las offline caso deseje.</p>
 
 ## Tecnolgias implementadas:
 
